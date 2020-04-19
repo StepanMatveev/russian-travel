@@ -1,0 +1,9 @@
+.header__lang-links {
+    display: flex;
+    flex-direction: row;
+    margin-top: 18px;
+}
+
+.header__lang-link:first-child {
+    margin-left: 0px;
+}
