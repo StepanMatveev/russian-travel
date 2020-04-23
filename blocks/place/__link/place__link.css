@@ -1,0 +1,15 @@
+.place__link {
+    display: inline-block;
+    font-size: 18px;
+    line-height: 22px;
+    color: #AAA;
+    text-decoration: underline;
+    text-underline-position: under;
+    align-self: end;
+    justify-self: end;
+    transition: linear 0.2s;
+}
+
+.place__link:hover {
+    opacity: 0.8;
+}

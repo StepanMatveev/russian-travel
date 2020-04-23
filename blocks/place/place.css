@@ -1,0 +1,20 @@
+@import url(./__image/place__image.css);
+@import url(./__link/place__link.css);
+@import url(./__paragraph/place__paragraph.css);
+@import url(./__title/place__title.css);
+@import url(./__url/place__url.css);
+@import url(./__website/place__website.css);
+
+.place {
+    margin-left: 0px;
+    margin-bottom: 0px;
+    margin-top: 80px;
+    display: grid;
+    grid-gap: 48px;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: 1fr auto;
+}
+
+.place:first-child {
+    margin-top: 0px;
+}

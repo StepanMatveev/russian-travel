@@ -1,0 +1,9 @@
+.footer__list {
+    list-style-type: none;
+    margin-left: 18px;
+}
+
+.footer__list:first-child {
+    margin-left: 0px;
+}
+

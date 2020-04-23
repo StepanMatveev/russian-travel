@@ -1,0 +1,9 @@
+@import url(./_width/intro__text_width_bolder.css);
+.intro__text {
+    display: inline;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    font-size: 13px;
+    line-height: 15px;
+    color: #FFFFFF;
+}

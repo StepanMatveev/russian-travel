@@ -1,0 +1,6 @@
+.gallery__picture {
+    max-width: 284px;
+    max-height: 213px;
+    object-fit: cover;
+    object-position: center;
+}
