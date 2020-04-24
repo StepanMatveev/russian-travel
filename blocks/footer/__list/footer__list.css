@@ -7,3 +7,13 @@
     margin-left: 0px;
 }
 
+@media screen and (min-width: 320px) and (max-width: 767px) {
+    .footer__list {
+    margin-left: 0px;
+    margin-top: 32px;
+    }
+
+    .footer__list:first-child {
+        margin-top: 0px;
+    }
+}       
