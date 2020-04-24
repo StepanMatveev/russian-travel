@@ -1,7 +1,7 @@
 .place__paragraph {
     margin-top: 24px;
     margin-left: -8px;
-    width: auto;
+    max-width: 484px;
     font-size: 17px;
     line-height: 30px;
     color: #fff;
