@@ -40,6 +40,6 @@
         max-width: 288px;
         padding-top: 54px;
         grid-gap: 29px;
-        grid-template-columns: repeat(1, 288px);
+        grid-template-columns: repeat(1, 320px);
     }
 }   
